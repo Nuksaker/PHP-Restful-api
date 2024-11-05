@@ -10,7 +10,6 @@ Follow these steps to set up and run the project:
 
 - PHP installed on your system.
 - Composer for managing PHP dependencies.
-- Composer for managing PHP dependencies.
 
 ### Installation
 
@@ -19,3 +18,5 @@ Follow these steps to set up and run the project:
    ```bash
    git clone https://github.com/Nuksaker/PHP-Restful-api.git
    cd your-repo-name
+
+11
