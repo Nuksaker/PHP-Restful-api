@@ -8,7 +8,6 @@ if (class_exists('Locale')) {
 } else {
     setlocale(LC_ALL, 'th_TH.utf8');
 }
-
 require_once __DIR__ . '/autoload.php';
 require_once 'vendor/autoload.php';
 require_once 'config/database.php';
