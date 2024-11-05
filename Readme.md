@@ -10,6 +10,7 @@ Follow these steps to set up and run the project:
 
 - PHP installed on your system.
 - Composer for managing PHP dependencies.
+- Composer for managing PHP dependencies.
 
 ### Installation
 
