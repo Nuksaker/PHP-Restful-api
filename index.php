@@ -103,7 +103,7 @@ if ($path === 'auth' && $method === 'POST') {
         list($controller, $action) = explode('@', $callback);
 
         $controllerClass = "App\\Modules\\" . ucfirst($module) . "\\Controllers\\" . $controller;
-
+ 
         if (class_exists($controllerClass)) {
             $controller_instance = new $controllerClass($db);
             if (!empty($params)) {
